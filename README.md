@@ -1,1 +1,1 @@
-[art.png] 
+![Art](./art.png)
