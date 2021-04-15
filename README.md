@@ -1,1 +1,1 @@
-![Art](./art.png)
+![Art](./meme/art.png)
